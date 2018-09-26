@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -40,7 +40,7 @@ career-profile:
     title: Career Profile
     summary: |
       I started my career as a microbiologist. I spent over 4 years working in the wet lab.
-      Then, my interests drifted towards bioinformatics field. I have never attemted any kind of
+      Then, my interests drifted towards bioinformatics field. I have never attempted any kind of
       formal education in computer science or related topics. I used only freely-available resources, eg
       online tutorials, courses, handbooks and the official documentation.
 
@@ -48,7 +48,7 @@ career-profile:
       Institute of Biochemistry and Biophysics, Polish Academy of Science. I am the author of few open-source projects
       which can be viewed on my [github](https://github.com/dizak/).
 
-      I am interested in further developing my Computer Science-related skills.
+      I am interested in further development of my Computer Science-related skills.
 
 education:
     - degree: In Progress - PhD Studies
@@ -67,7 +67,7 @@ education:
       details:
 
 experiences:
-    - role: PhD Student, Lead Developer of [prowler](https://dizak.github.io/prowler) and [mothulity](https://dizak.github.io/mothulity)
+    - role: PhD Student, Lead Developer
       time: 2015 - now
       company: Institute of Biochemistry and Biophysics, PAS
       details: |
@@ -88,8 +88,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      I am the author of few open-source projects, all of which can be viewed on my [github](https://github.com/dizak/).
-      Some of them already have their dedicated websites.
+      I am the author of few open-source projects.
 
     assignments:
       - title: prowler
