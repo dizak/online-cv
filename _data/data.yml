@@ -12,7 +12,9 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: dariusz.izak@gmail.com | dariusz.izak@ibb.waw.pl
+    email: |
+      dariusz.izak@gmail.com
+      dariusz.izak@ibb.waw.pl
     phone:
     website: dizak.github.io #do not add http://
     linkedin: dariusz-izak-272750157
@@ -44,7 +46,7 @@ career-profile:
 
       Right now, I am at the end of my PhD project at the Department of Bioinformatics at the
       Institute of Biochemistry and Biophysics, Polish Academy of Science. I am the author of few open-source projects
-      which can be viewed on my github.
+      which can be viewed on my [github](https://github.com/dizak/).
 
       I am interested in further developing my Computer Science-related skills.
 
@@ -111,7 +113,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      I am an author of few open-source projects, all of which can be viewed on my github.
+      I am the author of few open-source projects, all of which can be viewed on my [github](https://github.com/dizak/).
       Some of them already have their dedicated websites.
 
     assignments:
@@ -132,17 +134,15 @@ publications:
     intro:
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - authors: Izak, D., Klim, J. & Kaczanowski, S.
+      - title: Host–parasite interactions and ecology of the malaria parasite—a bioinformatics approach.
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - authors: Wolińska, A. et al.
+      - title: Metagenomic Analysis of Some Potential Nitrogen-Fixing Bacteria in Arable Soils at Different Formation Processes.
+
+      - authors: Wolińska, A. et al.
+      - title: Bacteroidetes as a sensitive biological indicator of agricultural soil usage revealed by a culture-independent approach.
 
 skills:
     title: Skills &amp; Proficiency
