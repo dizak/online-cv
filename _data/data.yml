@@ -1,5 +1,5 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output. 
+# Be aware that even a small syntax error here can lead to failures in output.
 #
 
 sidebar:
@@ -7,79 +7,62 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Dariusz Izak
+    tagline: phD Student, Python Developer, Data Scientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: dariusz.izak@gmail.com | dariusz.izak@ibb.waw.pl
+    phone:
+    website: dizak.github.io #do not add http://
+    linkedin: dariusz-izak-272750157
+    github: dizak
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
       - idiom: English
+        level: Advanced
+
+      - idiom: Polish
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-        
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Bouldering
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      I started my career as a microbiologist. I spent over 4 years working in the wet lab.
+      Then, my interests drifted towards bioinformatics field. I have never attemted any kind of
+      formal education in computer science or related topics. I used only freely-available resources, eg
+      online tutorials, courses, handbooks and the official documentation.
 
-      Second paragraph if required.
+      Right now, I am at the end of my PhD project at the Department of Bioinformatics at the
+      Institute of Biochemistry and Biophysics, Polish Academy of Science. I am the author of few open-source projects
+      which can be viewed on my github.
+
+      I am interested in further developing my Computer Science-related skills.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+    - degree: In Progress - PhD Studies
+      university: Institute of Biochemistry and Biophysics, PAS
+      time: 2015 - now
+      details:
 
-          - Bullet point
-          - Bullet point 
+    - degree: MSc Microbiology
+      university: Warsaw University of Life Sciences
+      time: 2011 - 2013
+      details:
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
+    - degree: BSc in Biology
+      university: Warsaw University of Life Sciences
+      time: 2008 - 2011
+      details:
 
 experiences:
     - role: Lead Developer
@@ -97,7 +80,7 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
     - role: Senior Software Engineer
       time: 2014 - 2015
@@ -128,37 +111,25 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I am an author of few open-source projects, all of which can be viewed on my github.
+      Some of them already have their dedicated websites.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: prowler
+        link: "https://dizak.github.io/prowler"
+        tagline: "Integrating genetic interactions networks and phylogenetic profiles."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: mothulity
+        link: "https://dizak.github.io/mothulity"
+        tagline: "Easy-to-use tool facilitating work with Mothur."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: headnode_notifier
+        link: "https://github.com/dizak/headnode_notifier"
+        tagline: "Simple script for email notifications. Uses gmail.com by default."
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro:
 
     papers:
       - title: The Art of Computer Programming
@@ -177,22 +148,19 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 90%
+
+      - name: Django
+        level: 70%
 
       - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
+        level: 60%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 60%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Jekyll
         level: 60%
 
 footer: >
