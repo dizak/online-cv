@@ -73,8 +73,8 @@ experiences:
       details: |
         The main goal of the the PhD project is to test whether there is any relation between genetic interactions and phylogenetic profiles.
         This requires integration of different types of data, downloading datasets with available REST APIs and heavy-load processing on a HPC cluster.
-        [prowler](https://dizak.github.io/prowler) is a toolkit developed along the project.
-        [prowler](https://dizak.github.io/prowler) depends on and integrates with [numpy](http://www.numpy.org/) and [pandas](http://pandas.pydata.org).
+        [prwlr](https://dizak.github.io/prwlr) is a toolkit developed along the project.
+        [prwlr](https://dizak.github.io/prwlr) depends on and integrates with [numpy](http://www.numpy.org/) and [pandas](http://pandas.pydata.org).
 
         [mothulity](https://dizak.github.io/mothulity) is a side-project, which arised from my own needs for saving time and effort in metagenomic analyses.
         [mothulity](https://dizak.github.io/mothulity) is an easy-to-use tool that makes work with [Mothur](https://www.mothur.org/) trivial.
@@ -91,8 +91,8 @@ projects:
       I am the author of few open-source projects.
 
     assignments:
-      - title: prowler
-        link: "https://dizak.github.io/prowler"
+      - title: prwlr
+        link: "https://dizak.github.io/prwlr"
         tagline: "Integrating genetic interactions networks and phylogenetic profiles."
 
       - title: mothulity
