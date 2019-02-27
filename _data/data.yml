@@ -45,7 +45,7 @@ career-profile:
       online tutorials, handbooks and the official documentation.
 
       Right now, I am at the end of my PhD project at the Department of Bioinformatics at the
-      Institute of Biochemistry and Biophysics, Polish Academy of Science. I am the author of few open-source projects
+      Institute of Biochemistry and Biophysics, Polish Academy of Science. I am the author/contributor of a few open-source projects
       which can be viewed on my [github](https://github.com/dizak/).
 
       I am interested in further development of my Computer Science-related skills.
@@ -88,7 +88,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      I am the author of few open-source projects.
+      I am the author of a few open-source projects.
 
     assignments:
       - title: prwlr
