@@ -43,16 +43,23 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I started my career as a microbiologist. I spent over 4 years working in the wet lab.
-      Then, my interests drifted towards bioinformatics field. I have never attempted any kind of
-      formal education in computer science or related topics. I used only freely-available resources, eg
-      online tutorials, handbooks and the official documentation.
+      I started my career as a microbiologist. I spent over 4 years working in the "wet lab".
+      My work was focused on particular aspects of antibiotics resistance and phage therapy.
 
-      Right now, I am at the end of my PhD project at the Department of Bioinformatics at the
-      Institute of Biochemistry and Biophysics, Polish Academy of Science. I am the author/contributor of a few open-source projects
-      which can be viewed on my [github](https://github.com/dizak/).
 
-      I am interested in further development of my Computer Science-related skills.
+      Then, my interests drifted towards bioinformatics field.
+      From insights  of using software to creating a new one.
+      I have never attempted any kind of formal education in computer science or related topics.
+      I used only freely-available resources, eg online tutorials, handbooks and the official documentation.
+
+
+      Right now, I am at the end of my PhD project at the Department of Bioinformatics at the Institute of Biochemistry and Biophysics, Polish Academy of Science (IBB PAS).
+      I am the author/contributor to a few open-source projects which can be viewed on my [github](https://github.com/dizak/).
+      I take care of my projects' deployments.
+      Also, I have done some efforts supporting the High-Performance-Computing facility administration.
+
+
+      I am interested in further development of my Computer Science and related skills.
 
 education:
     - degree: In Progress - PhD Studies
