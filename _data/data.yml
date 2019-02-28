@@ -80,7 +80,7 @@ experiences:
         [prwlr](https://dizak.github.io/prwlr) is a toolkit developed along the project.
         [prwlr](https://dizak.github.io/prwlr) depends on and integrates with [numpy](http://www.numpy.org/) and [pandas](http://pandas.pydata.org).
 
-        [mothulity](https://dizak.github.io/mothulity) is a side-project, which arised from my own needs for saving time and effort in metagenomic analyses.
+        [mothulity](https://dizak.github.io/mothulity) is a side-project which arised from my own needs for saving time and effort in metagenomic analyses.
         [mothulity](https://dizak.github.io/mothulity) is an easy-to-use tool that makes work with [Mothur](https://www.mothur.org/) trivial.
 
     - role: Wet Lab Molecular Biologist
