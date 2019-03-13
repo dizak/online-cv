@@ -78,6 +78,12 @@ education:
       details:
 
 experiences:
+    - role: Science Popularization
+    time: 2018
+    details: |
+      [FameLab](http://www.famelab.org.pl/) semi-finalist.
+      My 3 minutes talk of the Genetic Interactions Networks and Phylogenetic Profiles can be viewed [here](https://youtu.be/PTxDnuhzzqI).
+
     - role: PhD Student, Lead Developer
       time: 2015 - now
       company: Institute of Biochemistry and Biophysics, PAS
@@ -95,10 +101,6 @@ experiences:
       company: Institute of Biochemistry and Biophysics, PAS
       details: |
 
-    - role: Science Popularizaton
-      details: |
-        I was in the semi-finals of the [FameLab](http://www.famelab.org.pl/) competition in 2018. My 3 minutes talk of
-        the Genetic Interactions Networks and Phylogenetic Profiles can be viewed [here](https://youtu.be/PTxDnuhzzqI).
 
 
 projects:
