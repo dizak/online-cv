@@ -95,6 +95,8 @@ experiences:
 
         [mothulity](https://dizak.github.io/mothulity) is a side-project which arised from my own needs for saving time and effort in metagenomic analyses.
         [mothulity](https://dizak.github.io/mothulity) is an easy-to-use tool that makes work with [Mothur](https://www.mothur.org/) trivial.
+        
+        My main work environment is Jupiter Notebook. I use it for prototyping, data-processing and demonstrations, such as [this one](https://mybinder.org/v2/gh/dizak/nb-iris-dashboard/master).
 
     - role: Wet Lab Molecular Biologist
       time: 2013 - 2015
