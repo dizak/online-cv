@@ -145,8 +145,8 @@ skills:
       - name: Python
         level: 90%
 
-      - name: Bash/Linux
-        level: 70%
+      - name: pandas/numpy
+        level: 90%
 
       - name: Javascript
         level: 30%
