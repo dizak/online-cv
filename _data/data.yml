@@ -151,8 +151,8 @@ skills:
       - name: Bash/Linux
         level: 80%
 
-      - name: HTML5 & CSS
-        level: 60%
+      - name: Docker
+        level: 80%
 
       - name: Django
         level: 80%
@@ -160,8 +160,11 @@ skills:
       - name: Jekyll
         level: 80%
 
-      - name: Docker
-        level: 80%
+      - name: HTML5 & CSS
+        level: 60%
+
+      - name: Javascript
+        level: 30%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
