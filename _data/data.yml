@@ -43,23 +43,22 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I started my career as a microbiologist. I spent over 4 years working in the "wet lab".
-      My work was focused on particular aspects of antibiotics resistance and phage therapy.
+      In 2015 I have started my PhD research in the at the Department of Bioinformatics at the Institute of Biochemistry and Biophysics, Polish Academy of Science (IBB PAS).
 
 
-      Then, my interests drifted towards bioinformatics field.
-      From insights  of using software to creating a new one.
-      I have never attempted any kind of formal education in computer science or related topics.
-      I used only freely-available resources, eg online tutorials, handbooks and the official documentation.
+      The core of my PhD project involves Data Mining of large datasets on a daily basis.
+      I am a developer of Python libraries and packages.
+      I have also created Django- and Flask-based web-services.
 
 
-      Right now, I am at the end of my PhD project at the Department of Bioinformatics at the Institute of Biochemistry and Biophysics, Polish Academy of Science (IBB PAS).
-      I am the author/contributor to a few open-source projects which can be viewed on my [github](https://github.com/dizak/).
-      I take care of my projects' deployments.
-      Also, I have done some efforts supporting the High-Performance-Computing facility administration.
+      My projects were implemented by myself from design to deployment.
+      I have done part of administrative tasks on a HPC and VPS farm.
 
 
-      I am interested in further development of my Computer Science and related skills.
+      Right now, I am at the end of my PhD project.
+      I am looking for a job in which I can furtherly develop my programming skills in an agile team.
+      My main interests are web-services, especially micro-services.
+
 
 education:
     - degree: In Progress - PhD Studies
