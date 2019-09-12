@@ -121,6 +121,14 @@ projects:
         link: "https://dizak.github.io/mothulity"
         tagline: "Easy-to-use tool facilitating work with Mothur."
 
+      - title: django-mothulity
+        link: "https://github.com/dizak/django-mothulity"
+        tagline: "Web-Interface for Mothulity"
+
+      - title: flascholarly
+        link: "https://github.com/dizak/flascholarly"
+        tagline: "flascholarly - microservice based on scholarly module"
+
       - title: headnode_notifier
         link: "https://github.com/dizak/headnode_notifier"
         tagline: "Simple script for email notifications. Uses gmail.com by default."
