@@ -169,7 +169,7 @@ skills:
       - name: Docker
         level: 80%
 
-      - name: Django
+      - name: Django/Flask
         level: 80%
 
       - name: Jekyll
