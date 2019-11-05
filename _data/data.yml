@@ -80,6 +80,11 @@ education:
       details:
 
 experiences:
+    - role: Programming Support, DevOps and HPC Administrator
+      time: now
+      details: |
+        I take care for in-house HPC (SLURM MD) and VPS (Xen) farm.
+        While continuing to develop my project I here to help my collegues on the programming field.
     - role: Science Popularization
       time: 2018
       details: |
