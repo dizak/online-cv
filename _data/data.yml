@@ -80,7 +80,7 @@ education:
       details:
 
 experiences:
-    - role: Programming Support, DevOps and HPC Administrator
+    - role: DevOps and HPC Administrator, Programming Support
       time: now
       details: |
         I take care for in-house HPC (SLURM MD) and VPS (Xen) farm.
