@@ -43,23 +43,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      In 2015 I have started my PhD research in the at the Department of Bioinformatics at the Institute of Biochemistry and Biophysics, Polish Academy of Science (IBB PAS).
+      I am a Python developer with around 4 years of experience.
+      So far, I have created Python libraries, packages, Django and Flask services.
+      The core of my doctorate project involves Data Mining of large datasets done mostly in [numpy](http://www.numpy.org/) and [pandas](http://pandas.pydata.org).
 
-
-      The core of my doctorate project involves Data Mining of large datasets on a daily basis.
-      I am a developer of Python libraries and packages.
-      I have also created Django- and Flask-based web-services.
-
-
-      My projects were implemented by myself from design to deployment.
+      My projects are developed and deployed by myself.
       I am responsible for administrative tasks on a HPC (SLURM) and VPS (Xen) farm.
-
 
       Right now, I am at the end of my PhD project.
       I am looking for a job in which I can furtherly develop my programming skills in an agile team.
-      My main interests are web-services, especially micro-services.
       I am *nix, Python and containers enthuziast.
-
 
       Want to see my work? Just pay a visit to my <a href="https://github.com/dizak" target="_blank"><i class="fab fa-github"></i> <i class="fas fa-smile">
 
