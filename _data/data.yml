@@ -52,7 +52,7 @@ career-profile:
 
 
       My projects were implemented by myself from design to deployment.
-      I have done part of administrative tasks on a HPC and VPS farm.
+      I am responsible for administrative tasks on a HPC (SLURM) and VPS (Xen) farm.
 
 
       Right now, I am at the end of my PhD project.
@@ -80,6 +80,10 @@ education:
       details:
 
 experiences:
+    - role: DevOps and HPC Administrator, Programming Support
+      time: now
+      details: |
+        I take care for in-house HPC (SLURM MD) and VPS (Xen) farm.
     - role: Science Popularization
       time: 2018
       details: |
