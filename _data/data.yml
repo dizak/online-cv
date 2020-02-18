@@ -43,16 +43,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a Python developer with around 4 years of experience.
-      So far, I have created Python libraries, packages, Django and Flask services.
-      The core of my doctorate project involves Data Mining of large datasets done mostly in [numpy](http://www.numpy.org/) and [pandas](http://pandas.pydata.org).
+      I am a Software/HPC Engineer at [AstraZeneca](https://astrazeneca.com).
+      Recently, I have joined a team of specialists, focused on supporting
+      scientists on their way to new discoveries.
 
-      My projects are developed and deployed by myself.
-      I am responsible for administrative tasks on a HPC (SLURM) and VPS (Xen) farm.
+      At the Institute of Biochemistry and Biophysics I was responsible for administrative tasks on a HPC (SLURM) and VPS (Xen) farm. I containerized selected services available for the Institute's employees and migrated the Operations' approach to IaaS.
 
-      Right now, I am at the end of my PhD project.
-      I am looking for a job in which I can furtherly develop my programming skills in an agile team.
-      I am *nix, Python and containers enthuziast.
+      My PhD project is at the last major steps. This project focuses on evolutionary history of Genetic/Physical Interactions Networks. A Python library development is part of the project.
 
       Want to see my work? Just pay a visit to my <a href="https://github.com/dizak" target="_blank"><i class="fab fa-github"></i></a> and <a href="https://gitlab.com/dizak" target="_blank"><i class="fab fa-gitlab"></i></a>
 
@@ -73,8 +70,10 @@ education:
       details:
 
 experiences:
-    - role: DevOps and HPC Administrator, Programming Support
+    - role: Software/HPC Engineer
       time: now
+    - role: DevOps and HPC Administrator, Programming Support
+      time: 2019- 2020
       details: |
         I take care for in-house HPC (SLURM MD) and VPS (Xen) farm.
     - role: Science Popularization
